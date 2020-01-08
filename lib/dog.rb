@@ -6,7 +6,7 @@ class Dog
   end
   
   def breed=(breed)
-    @breed = breed
+    @breed = dogs_breed
   end
   
 end
