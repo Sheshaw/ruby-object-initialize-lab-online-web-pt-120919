@@ -1,2 +1,2 @@
 class Person
-  def initi
+  def initialize ()
